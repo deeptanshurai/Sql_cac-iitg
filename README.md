@@ -5,11 +5,18 @@ This project analyzes inventory and sales data for Urban Retail Co. to identify 
 # Key Components
 
 SQL scripts for advanced inventory analytics
+
 Tableau dashboard with key visualizations
+
 Executive summary with business recommendations
+
 Optional ERD showing data structure
-Tools Used
+
+# Tools Used
 SQL (MYSQL)
+
 Tableau
+
 Excel
+
 Figma
